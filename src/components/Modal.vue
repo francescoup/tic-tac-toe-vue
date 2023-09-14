@@ -67,7 +67,6 @@ function reset(){
     padding:0px;
     z-index: 9;
     color:rgb(43, 42, 42);
-    transition: 0.5s ease-in;
 }
 }
 
